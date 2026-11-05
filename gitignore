@@ -1,0 +1,7 @@
+# Entornos virtuales y cachés (no se suben a GitHub)
+.venv/
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+.vscode/

@@ -1,0 +1,3 @@
+# Versiones con las que se desarrolló y probó el proyecto (Python 3.13)
+cryptography==50.0.2
+streamlit==1.66.1
